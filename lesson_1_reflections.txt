@@ -1,0 +1,14 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewinng a diff between two versions of a file helps
+to identify the changes to a former version.
+This is especially helful when chnge on big files cause an error.
+For learning or understanding changes on code done by someone else.
+
+Git allows to commit multiple files together because a functional chage may require changes in multiple files. Since especially in programming systems or programms consist of multiple files it makes sense to commit files together which built up the system.
+
+How might using version control make you more confident to make changes that could break something?
+Knowing that I can easily go back each change makes me more confident to change something without being scared to break the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Want to use it to setup a web page.
