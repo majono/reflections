@@ -13,3 +13,6 @@ changes in different lines of code independent without loosing the connectnio fo
 
 How do the diagrams help you visualize the branch structure?
 The diagram l#shows the reachability of individual commits by its parent commit and the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging bracnches together is to combine changes made in different branches in one branch. The diagram helps to understand the reason why it is called branch. A branch is a series of changes with the root in the master or anoher branch.
