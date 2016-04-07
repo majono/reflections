@@ -16,3 +16,7 @@ The diagram l#shows the reachability of individual commits by its parent commit 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result of merging bracnches together is to combine changes made in different branches in one branch. The diagram helps to understand the reason why it is called branch. A branch is a series of changes with the root in the master or anoher branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Many changes are independent from each other. Manual merge would mean to spent a lot of time in the changes of others. The could mean the advantage to develop in parallel disapear.
+The automatic merge is a very good guess. Some requirements have to be fullfilled. Editing on different platfrms may lead to issues on autamatic merge.
